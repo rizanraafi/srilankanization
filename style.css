@@ -1,0 +1,48 @@
+.intro {
+ 
+  background-image: url(/images/intro-banner.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.introhead{
+
+    font-size: 8rem;
+}
+
+.objectives{
+
+
+  background-color: #f2efec;
+}
+
+.purple-text{
+
+  color: #8c1539 !important;
+  
+}
+
+.purple-background{
+
+  background-color: #8c1539 !important;
+}
+
+.burge-text{
+
+  color:#f2efec ;
+}
+
+.text-yellow{
+
+  color: #ffca00;
+}
+
+.burge-background{
+
+  background-color:#f2efec ;
+}
+
+.yellow-background{
+
+  background-color: #ffca00;
+}
+
